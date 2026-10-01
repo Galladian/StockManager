@@ -4,51 +4,55 @@
         "amount": "20.0"
     },
     {
-        "ticker": "META",
-        "amount": "11.0"
-    },
-    {
-        "ticker": "GOOGL",
-        "amount": "15.0"
-    },
-    {
         "ticker": "CAKE",
         "amount": "65.0"
     },
     {
-        "ticker": "AMZN",
-        "amount": "20.0"
+        "ticker": "META",
+        "amount": "11.0"
     },
     {
         "ticker": "NOW",
         "amount": "40.0"
     },
     {
-        "ticker": "PANW",
-        "amount": "12.0"
+        "ticker": "AMZN",
+        "amount": "20.0"
+    },
+    {
+        "ticker": "GOOGL",
+        "amount": "15.0"
     },
     {
         "ticker": "SOFI",
-        "amount": "200.0"
+        "amount": "250.0"
+    },
+    {
+        "ticker": "SGOV",
+        "amount": "53.0"
     },
     {
         "ticker": "MELI",
         "amount": "2.0"
     },
     {
-        "ticker": "SGOV",
-        "amount": "35.5"
-    },
-    {
         "ticker": "ELF",
         "amount": "30.0"
     },
     {
-        "ticker": "CELH",
-        "amount": "65.0"
+        "ticker": "NFLX",
+        "amount": "35.0"
     },
     {
-        "ticker": "HIMS",
-        "amount": "45.0"
+        "ticker": "CELH",
+        "amount": "80.0"
+    },
+    {
+        "ticker": "NBIS",
+        "amount": "7.0"
+    },
+    {
+        "ticker": "RKLB",
+        "amount": "22.0"
     }
 ]
